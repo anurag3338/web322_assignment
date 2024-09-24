@@ -5,7 +5,7 @@ Student Number: 167000223
 Student Email: abalu3@myseneca.ca
 Date Created: 23/09/2024
 
-GITHUB URL:  
+GITHUB URL:  https://github.com/anurag3338/web322_assignment/tree/main
 VERCEL URL:   web322-assignment-anuragbalus-projects.vercel.app
 
 ### Technology Stack
