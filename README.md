@@ -6,7 +6,7 @@ Student Email: abalu3@myseneca.ca
 Date Created: 23/09/2024
 
 GITHUB URL:  
-VERCEL URL:   
+VERCEL URL:   web322-assignment-anuragbalus-projects.vercel.app
 
 ### Technology Stack
 
